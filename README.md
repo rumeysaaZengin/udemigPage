@@ -5,5 +5,6 @@
 -Made changes by css with sass.
 -col and row learned.
 -Responsive practice was done.
+
  ### screen
- ![]()
+ ![](screen.gif)
